@@ -4,7 +4,7 @@
 
 # Fullstack Learning Project – Angular (PrimeNG) & Spring Boot (JPA/Hibernate)
 
-Hallo! 
+Hallo!
 Ich bin Max Schneider und dieses Projekt ist aus meinem Wunsch entstanden, **Fullstack-Entwicklung** besser zu verstehen – insbesondere die Kombination aus:
 
 - **Angular** für das Frontend
